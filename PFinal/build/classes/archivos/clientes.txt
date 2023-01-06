@@ -1,0 +1,14 @@
+1	Carniceria 1A	3	CF	07:00	07:25
+2	Carniceria 2JI	5	CNF	07:30	07:55
+3	Carniceria 3JU	6	CF	08:00	08:25
+4	Carniceria 4COS	4	CF	08:30	08:55
+5	Carniceria 5CHU	2	CF	09:00	09:25
+6	Carniceria 6EL7	3	CF	09:30	09:55
+7	Carniceria 7Riv	4	CF	10:00	10:25
+8	Carniceria 8Gonz	8	CNF	10:30	10:55
+9	Carniceria 9Manz	7	CF	11:00	11:25
+10	Carniceria 10LosPri	1	CNF	11:30	11:55
+11	Carniceria 11MariaLuz	1	CNF	12:00	12:25
+12	Carniceria 12ElPuen	3	CF	12:30	12:55
+13	Carniceria 13Dani	2	CF	13:00	13:25
+14	Carniceria 14Jalisco	4	CF	13:30	13:55
